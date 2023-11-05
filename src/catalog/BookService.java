@@ -7,6 +7,6 @@ public class BookService {
     }
 
     public int count() {
-        return 1000;
+        return 100;
     }
 }
